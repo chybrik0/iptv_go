@@ -173,4 +173,469 @@ http://streams.tv.mts.by/peretz_int/1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.
 #EXTINF:0,Nickelodeon
 http://37.8.151.208:4022/udp/224.3.20.63:1234
 
+#EXTINF:-1,Рен ТВ
+http://176.101.224.21:8080/udp/239.195.32.18:1234
 
+#EXTINF:0, TNT int
+http://87.252.229.252:8082/tnt
+
+
+#EXTINF:0, PYATNICA
+http://ott-cdn.ucom.am/s50/index.m3u8
+
+
+
+#EXTINF:-1,Рен ТВ
+http://176.101.224.21:8080/udp/239.195.32.18:1234
+
+#EXTINF:-1,Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+
+#EXTINF:-1,Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,СТС
+http://176.101.224.21:8080/udp/239.195.32.8:1234
+
+#EXTINF:0 , Pervi kanal
+http://ott-cdn.ucom.am/s14/index.m3u8
+
+#EXTINF:0 , RTR
+http://ott-cdn.ucom.am/s15/index.m3u8
+
+#EXTINF:0 , Rossiya k
+http://ott-cdn.ucom.am/s16/index.m3u8
+
+#EXTINF:0 , NTV Mir
+http://ott-cdn.ucom.am/s17/index.m3u8
+
+#EXTINF:0, TNT
+http://ott-cdn.ucom.am/s19/index.m3u8
+
+#EXTINF:0, TNT int
+http://87.252.229.252:8082/tnt
+
+#EXTINF:0 , TNT4
+http://ott-cdn.ucom.am/s100/index.m3u8
+
+#EXTINF:0 , ZVEZDA
+http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.zvezda
+
+#EXTINF:0 , Ren TV
+http://ott-cdn.ucom.am/s85/index.m3u8
+
+#EXTINF:0 ,Ren TV International
+http://sc.id-tv.kz/RenTV_36_37.m3u8
+
+#EXTINF:0 , STS
+http://46.32.64.42/s/live/8/86.169.51.136/1/0.m3u8
+
+#EXTINF:0 , STS int
+http://sc.id-tv.kz/STS_36_37.m3u8
+
+#EXTINF:0,STS MEGA
+http://37.233.27.53:8891
+
+#EXTINF:0, CTV
+http://ott-cdn.ucom.am/s20/index.m3u8
+
+#EXTINF:0, MIR Premium
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+
+#EXTINF:0, MIR int
+http://sc.id-tv.kz/Mir_38_39.m3u8
+
+#EXTINF:0, MIR
+http://ott-cdn.ucom.am/s39/index.m3u8
+
+#EXTINF:0, INTER
+http://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+
+#EXTINF:0 , ROSSIYA 24
+http://ott-cdn.ucom.am/s21/index.m3u8
+
+#EXTINF:0, PYATNICA
+http://ott-cdn.ucom.am/s50/index.m3u8
+
+#EXTINF:-1,Bridge TV Русский хит
+http://ott-cdn.ucom.am/s78/04.m3u8
+
+#EXTINF:-1,Россия 24
+http://ott-cdn.ucom.am/s21/04.m3u8
+
+#EXTINF:-1,Русский Бестселлер
+http://ott-cdn.ucom.am/s52/04.m3u8
+
+#EXTINF:-1,ТНТ4
+http://ott-cdn.ucom.am/s100/04.m3u8
+
+#EXTINF:-1,ТВЦ
+http://ott-cdn.ucom.am/s54/04.m3u8
+
+#EXTINF:-1,ПЯТНИЦА
+http://ott-cdn.ucom.am/s50/04.m3u8
+
+#EXTINF:-1,СТС
+http://ott-cdn.ucom.am/s52/index.m3u8
+
+#EXTINF:-1,112 Украина
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
+
+#EXTINF:-1,HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+
+#EXTINF:-1,RU TV
+http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
+
+#EXTINF:-1,Дом кино
+http://stream.euroasia.lfstrm.tv/dom_kino/1/index.m3u8
+
+#EXTINF:-1,Звезда
+http://cdn-01.bonus-tv.ru:8080/zvezda/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Звезда
+http://cdn-01.bonus-tv.ru:8080/zvezda/tracks-v2a1/index.m3u8
+
+#EXTINF:-1,Рен ТВ
+http://ott-cdn.ucom.am/s85/04.m3u8
+
+#EXTINF:-1,Русский Бестселлер
+http://stream.euroasia.lfstrm.tv/russkiy_bestseller/1/index.m3u8
+
+#EXTINF:-1,Русский Иллюзион
+http://stream.euroasia.lfstrm.tv/russkiy_illusion/1/index.m3u8
+
+#EXTINF:-1,ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
+
+#EXTINF:0,Россия 1
+http://46.32.64.42/s/live/2/134.249.65.172/1541501802945/0.m3u8
+
+#EXTINF:0,ТНТ
+http://176.101.224.21:8080/udp/239.195.32.11:1234
+
+#EXTINF:0,ТНТ4 +4
+http://37.49.212.64:81/udp/239.54.7.36:1224
+
+#EXTINF:0,ТНТ-International (Беларусь)(Резерв)
+http://streams.tv.mts.by/tnt_international/index.m3u8
+
+#EXTINF:0,Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
+
+#EXTINF:0,Мир international
+http://sc.id-tv.kz/Mir.m3u8
+
+#EXTINF:0,Домашний
+http://176.101.224.21:8080/udp/239.195.32.10:1234
+
+#EXTINF:0,Пятница
+http://176.101.224.21:8080/udp/239.195.32.32:1234
+
+#EXTINF:0,ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+
+#EXTINF:0,ТВ Центр Международный
+http://185.192.251.89/tvc-p212/smil:tvc.smil/chunklist_w1797655187_b1703000.m3u8
+
+#EXTINF:0,НТВ
+http://176.101.224.21:8080/udp/239.195.32.7:1234
+
+#EXTINF:0,НТВ-Право
+http://88.216.48.14:80/ntvpravo/live.m3u8
+
+#EXTINF:0,НТВ-Сериал
+http://88.216.48.14:80/ntvserial/live.m3u8
+
+#EXTINF:0,СТС Мир
+http://94.251.20.169:81/udp/239.54.5.170:1234
+
+#EXTINF:0,ОТР
+http://46.32.64.42/s/live/24/134.249.65.172/1541502656731/0.m3u8
+
+#EXTINF:0,НТВ МИР
+http://88.216.48.14:80/ntvmir/live.m3u8
+
+#EXTINF:0,Рен ТВ
+http://88.216.48.14:80/rentv/live.m3u8
+
+#EXTINF:0,ТНТ
+http://88.216.48.14:80/tntint/live.m3u8
+
+#EXTINF:0,Iнтер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+
+#EXTINF:0,1+1 International
+http://live-k2304-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8
+
+#EXTINF:0,ТЕТ(Резерв)
+http://pr2pr.net/kanalas/4hHmPJ/365
+
+#EXTINF:0,К1
+http://109.68.40.67/life/k1_3/index.m3u8
+
+#EXTINF:0,Дом кино
+http://88.216.48.14:80/domkino/live.m3u8
+
+#EXTINF:0,Русский иллюзион
+http://86.57.225.245:7018/play/a003
+
+#EXTINF:0,TV1000 Русское кино
+http://88.216.48.14:80/tv1000ru/live.m3u8
+
+#EXTINF:0,TV1000 Русское кино(Резерв)2
+http://ott-cdn.ucom.am/s95/index.m3u8
+
+#EXTINF:0,TV1000 Русское кино(Резерв)4
+http://hls-viasat.cdnvideo.ru/hls/relay/1501746776693/index.m3u8?md5=r5EURcgBubQtJ4BaVkac3w&e=1541405876&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+
+#EXTINF:-1,Русский бестселлер
+http://59758c7d.skalkak.pw/iptv/DPVE932C4ET87D/905/index.m3u8
+
+#EXTINF:-1,Русский детектив
+http://59758c7d.skalkak.pw/iptv/DPVE932C4ET87D/907/index.m3u8
+
+#EXTINF:-1,НТВ Сериал
+http://59758c7d.skalkak.pw/iptv/DPVE932C4ET87D/744/index.m3u8
+
+#EXTINF:-1,Пятница
+http://59758c7d.skalkak.pw/iptv/DPVE932C4ET87D/503/index.m3u8
+
+#EXTINF:-1,Русский Иллюзион
+http://59758c7d.skalkak.pw/iptv/DPVE932C4ET87D/547/index.m3u8
+
+#EXTINF:-1,Иллюзион +
+http://59758c7d.skalkak.pw/iptv/DPVE932C4ET87D/548/index.m3u8
+
+#EXTINF:-1,Дом Кино
+http://59758c7d.skalkak.pw/iptv/DPVE932C4ET87D/154/index.m3u8
+
+#EXTINF:-1,Русская Комедия
+http://59758c7d.skalkak.pw/iptv/DPVE932C4ET87D/733/index.m3u8
+
+#EXTINF:-1,Detektiv.tv
+http://59758c7d.skalkak.pw/iptv/DPVE932C4ET87D/734/index.m3u8
+
+#EXTINF:0,Cartoon network
+http://37.49.212.64:81/udp/239.54.7.57:1224
+
+#EXTINF:0,Cartoon network(Резерв)2
+http://stream.euroasia.lfstrm.tv/cartoon_network/1/index.m3u8
+
+#EXTINF:0,Cartoon network HD
+http://pr2pr.net/kanalas/4hHmPJ/486
+
+#EXTINF:0,Niki Junior
+http://213.174.8.7:9100/index.m3u8
+
+#EXTINF:0,Nickelodeon(Резерв)2
+http://37.49.212.64:81/udp/239.54.7.69:1224
+#EXTINF:-1,2Х2
+http://46.160.166.9:81//udp/239.254.2.4:1234
+
+#EXTINF:-1,Дом кино
+http://46.160.166.9:81//udp/239.254.2.7:1234
+
+#EXTINF:-1,Cartoon Network
+http://46.160.166.9:81//udp/239.254.2.9:1234
+
+#EXTINF:-1,ПЯТНИЦА
+http://46.160.166.9:81//udp/239.254.2.16:1234
+
+#EXTINF:-1,Nickelodeon
+http://46.160.166.9:81//udp/239.254.2.17:1234
+
+#EXTINF:-1,СТС
+http://46.160.166.9:81//udp/239.254.2.32:1234
+
+#EXTINF:-1,МИР
+http://46.160.166.9:81//udp/239.254.2.40:1234
+
+#EXTINF:-1,РЕН ТВ
+http://46.160.166.9:81//udp/239.254.2.68:1234
+
+#EXTINF:-1,Русский иллюзион
+http://46.160.166.9:81//udp/239.254.2.85:1234
+
+#EXTINF:-1,ТВЦ
+http://46.160.166.9:81//udp/239.254.2.88:1234
+
+#EXTINF:-1,ТНТ
+http://46.160.166.9:81//udp/239.254.2.114:1234
+
+#EXTINF:-1,Первый канал
+http://46.160.166.9:81//udp/239.254.2.122:1234
+
+#EXTINF:-1,Канал 8
+http://92.240.139.44:4022/udp/232.1.22.1:1234
+
+#EXTINF:-1,Life News
+http://92.240.139.44:4022/udp/232.1.19.12:1235
+
+#EXTINF:-1,Дом Кино
+http://5.8.203.186:5055/play/a317
+
+#EXTINF:-1,2х2
+http://5.8.203.186:5055/play/a073
+
+#EXTINF:-1,Nickelodeon
+http://5.8.203.186:5055/play/a026
+
+#EXTINF:-1,Общественное телевидение России
+http://5.8.203.186:5055/play/a056
+
+#EXTINF:-1,ТНТ 4
+http://5.8.203.186:5055/play/a147
+
+#EXTINF:-1,Русский иллюзион
+http://5.8.203.186:5055/play/a035
+
+#EXTINF:-1,РЕН
+http://5.8.203.186:5055/play/a058
+
+#EXTINF:-1,Русский Детектив
+http://5.8.203.186:5055/play/a088
+
+#EXTINF:-1,Мир
+http://5.8.203.186:5055/play/a065
+
+#EXTINF:-1,ПЯТНИЦА!
+http://5.8.203.186:5055/play/a063
+
+#EXTINF:-1,RU.TV
+http://5.8.203.186:5055/play/a106
+
+#EXTINF:-1,СТС
+http://5.8.203.186:5055/play/a060
+
+#EXTINF:-1,Русский Бестселлер
+http://5.8.203.186:5055/play/a108
+
+#EXTINF:-1,Nickelodeon
+http://5.8.203.186:5055/play/a093
+
+#EXTINF:-1,НТВ
+http://5.8.203.186:5055/play/a051
+
+#EXTINF:-1,Первый канал
+http://5.8.203.186:5055/play/a048
+
+#EXTINF:-1,Первый канал
+http://5.8.203.186:5055/play/a113
+
+#EXTINF:-1,ТНТ
+http://5.8.203.186:5055/play/a066
+
+#EXTINF:-1,Россия 24
+http://5.8.203.186:5055/play/a054
+
+#EXTINF:-1,Мир 24
+http://5.8.203.186:5055/play/a102
+
+#EXTINF:-1,Звезда
+http://5.8.203.186:5055/play/a064
+
+#EXTINF:-1,Дом кино
+http://91.90.253.73:8080/CH43_std/index.m3u8
+
+#EXTINF:-1,Россия 1
+http://91.90.253.73:8080/CH72_std/index.m3u8
+
+#EXTINF:-1,ТНТ
+http://91.90.253.73:8080/CH75_std/index.m3u8
+
+#EXTINF:-1,Рен ТВ
+http://91.90.253.73:8080/CH82_std/index.m3u8
+
+#EXTINF:-1,ТНТ4
+http://91.90.253.73:8080/CH109_std/index.m3u8
+
+#EXTINF:-1,НТВ
+http://91.90.253.73:8080/CH133_std/index.m3u8
+
+#EXTINF: -1,Дом кино
+http://stream.euroasia.lfstrm.tv/dom_kino/1/index.m3u8
+
+#EXTINF:-1 ,НТВ Сериал
+http://88.216.48.14:80/ntvserial/live.m3u8
+
+#EXTINF: -1,Русский Иллюзион
+http://86.57.225.245:7018/play/a003
+
+#EXTINF:-1,Русский бестселлер
+http://stream.euroasia.lfstrm.tv/russkiy_bestseller/1/index.m3u8
+
+#EXTINF:0,Дом кино
+http://185.93.3.83:5007/play/a00t
+
+#EXTINF:0,Дом кино (Резерв1)
+http://88.216.48.14:80/domkino/live.m3u8
+
+#EXTINF:0,Русская комедия (Резерв)
+http://5.129.208.143:81/udp/239.72.6.63:1234
+
+#EXTINF:0, Иллюзион
+http://109.248.236.41:4433/udp/238.1.1.104:1234
+
+#EXTINF:-1,10_TVC
+http://83.167.65.150:8001/play/a010
+
+#EXTINF:-1,02_Rossiya_1
+http://83.167.65.150:8001/play/a002
+
+#EXTINF:-1,23_8_kanal
+http://83.167.65.150:8001/play/a023
+
+#EXTINF:-1,31_RenTV
+http://83.167.65.150:8001/play/a031
+
+#EXTINF:-1,09_OTR
+http://83.167.65.150:8001/play/a009
+
+#EXTINF:-1,19_TNT
+http://83.167.65.150:8001/play/a019
+
+#EXTINF:-1,05_kanal
+http://83.167.65.150:8001/play/a005
+
+#EXTINF:-1,01_Perviy_kanal
+http://83.167.65.150:8001/play/a001
+
+#EXTINF:-1,30_NTV
+http://83.167.65.150:8001/play/a030
+
+#EXTINF:-1,07_Rossiya_24
+http://83.167.65.150:8001/play/a007
+
+#EXTINF:-1,16_Pyatnica
+http://83.167.65.150:8001/play/a016
+
+#EXTINF:-1,15_TV-3
+http://83.167.65.150:8001/play/a015
+
+#EXTINF:-1,32_Rossiya_24
+http://83.167.65.150:8001/play/a032
+
+#EXTINF:-1,11_Ren_TV
+http://83.167.65.150:8001/play/a011
+
+#EXTINF:-1,18_Mir
+http://83.167.65.150:8001/play/a018
+
+#EXTINF:-1,20_Muz-tv
+http://83.167.65.150:8001/play/a020
+
+#EXTINF:-1,04_NTV
+http://83.167.65.150:8001/play/a004
+
+#EXTINF:-1,06_Rossiya_K
+http://83.167.65.150:8001/play/a006
+
+#EXTINF:-1,13_STS
+http://83.167.65.150:8001/play/a013
+
+#EXTINF:-1,17_Zvezda
+http://83.167.65.150:8001/play/a017
