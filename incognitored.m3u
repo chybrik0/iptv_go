@@ -18,9 +18,6 @@ http://176.101.224.21:8080/udp/239.195.32.14:1234
 #EXTINF:0,НТВ
 #EXTGRP:Общие
 http://176.101.224.21:8080/udp/239.195.32.7:1234
-#EXTINF:0,СТС
-#EXTGRP:Общие
-http://176.101.224.21:8080/udp/239.195.32.8:1234
 #EXTINF:0,Наука
 #EXTGRP:Познавательные
 http://ott-cdn.ucom.am/s98/index.m3u8
@@ -51,3 +48,21 @@ http://109.70.184.20:8080/udp/239.195.32.11:1234
 #EXTINF:-1,ТНТ Music
 #EXTGRP:Музыка
 http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
+
+
+
+#EXTINF:-1,Horny 18 year
+#EXTGRP:18+
+http://cdn.justporno.sex/video_hd/0/3883.mp4
+#EXTINF:-1,Horny Horny filles
+#EXTGRP:18+
+http://cdn.justporno.sex/video_hd/0/3450.mp4
+#EXTINF:-1,Horny Hottie
+#EXTGRP:18+
+http://cdn.justporno.sex/video_hd/1199/11992.mp4
+#EXTINF:-1,Horny girl
+#EXTGRP:18+
+http://cdn.justporno.sex/video_hd/0/413.mp4
+#EXTINF:-1,Hot Stars
+#EXTGRP:18+
+http://cdn.justporno.sex/video_hd/0/6532.mp4
