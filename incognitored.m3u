@@ -49,8 +49,18 @@ http://109.70.184.20:8080/udp/239.195.32.11:1234
 #EXTGRP:Музыка
 http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
 
+#EXTINF:-1,ТНТ (Развлекательные)
+http://127.0.0.1:6878/ace/getstream?id=df2d881ec72c95c96df1c873ffe3c244b72d7918&.mp4
+#EXTINF:-1,ТНТ (+2) (Развлекательные)
+http://127.0.0.1:6878/ace/getstream?id=64217df1fcbf68357cd64a15f5393b307e73bc2e&.mp4
+#EXTINF:-1,ТНТ HD (Развлекательные)
+http://127.0.0.1:6878/ace/getstream?id=9477d75fd3fe2be6df2ba3fcb4f98009339da3d6&.mp4
+#EXTINF:-1,ТНТ4 (Развлекательные)
+http://127.0.0.1:6878/ace/getstream?id=d127c8ae736ff66271f69a35ab91c361ed5256c8&.mp4
 
-
+#EXTINF:-1,Jasmin TV HD (18+)
+#EXTGRP:18+
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1,Horny 18 year
 #EXTGRP:18+
 http://cdn.justporno.sex/video_hd/0/3883.mp4
