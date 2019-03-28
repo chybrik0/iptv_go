@@ -58,21 +58,24 @@ http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 
-#EXTINF:0,History
-http://37.146.135.202:4000/udp/233.33.221.24:5050
-#EXTINF:0,History
-http://78.106.119.235:2323/udp/233.33.221.24:5050
-#EXTINF:0,History
-http://78.106.119.235:2323/udp/233.33.221.24:5050
-#EXTINF:0,History
-http://128.69.139.9:4022/udp/233.33.221.24:5050
-#EXTINF:0,History HD
-http://78.106.119.235:2323/udp/233.33.221.23:5050
-#EXTINF:0,History HD
-http://78.106.119.235:2323/udp/233.33.221.23:5050
-#EXTINF:0,History HD
-http://128.72.165.166:81/udp/233.33.221.23:5050
-#EXTINF:0,History HD
-http://37.144.17.216:8080/udp/233.33.221.23:5050
-
-
+#EXTINF:0,365 Дней
+#EXTGRP:Познавательные
+http://37.194.13.62:81/udp/239.1.5.20:1234
+#EXTINF:0,Animal Planet
+#EXTGRP:Познавательные
+http://109.226.118.29:4022/udp/232.0.1.48:1234
+#EXTINF:0,Da Vinci learning
+#EXTGRP:Познавательные
+http://37.194.13.62:81/udp/239.1.5.6:1234
+#EXTINF:0,discovery
+#EXTGRP:Познавательные
+http://78.106.119.235:2323/udp/233.33.210.153:5050
+#EXTINF:0,DISCOVERY
+#EXTGRP:Познавательные
+http://78.106.119.235:2323/udp/233.33.210.153:5050
+#EXTINF:0,Discovery HD
+#EXTGRP:Познавательные
+http://91.211.238.162:8082/udp/239.101.4.2:2222
+#EXTINF:0,Discovery Science
+#EXTGRP:Познавательные
+http://37.194.13.62:81/udp/239.1.5.9:1234
