@@ -127,10 +127,6 @@ http://live.m2.tv/hls3/stream.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,Наука
 http://ott-cdn.ucom.am/s98/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 
-#EXTINF:-1,СТБ
-http://c0.cdn.trinity-tv.net/stream/m6mgzjjpsqdgn2bypwx2t3hiishj2gv4amfj56rvc7ez2p7j7nryp5cctxgikemjnuhykvyjfbt7gr9mhuyr58vssd3ksutmi6a4ibpphdbyi846w7wrksv39dsbp8vmwtjnbkyivhjjaxd8inam5va=.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-
-
 
 #EXTINF:-1,Первый канал HD
 http://188.242.201.77:4022/udp/239.239.3.50:5239?em9uYS1pcHR2LnJ1
