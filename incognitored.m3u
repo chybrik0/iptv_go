@@ -171,48 +171,6 @@ http://streams.tv.mts.by/peretz_int/1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.
 
 
 #EXTINF:0,Nickelodeon
-http://83.246.144.19:81/udp/239.54.6.69:1224
-#EXTINF:0,Nickelodeon
-http://178.163.18.39:4022/udp/234.0.0.153:2000
-#EXTINF:0,Nickelodeon
-http://37.194.93.39:81/udp/239.1.3.4:1234
-#EXTINF:0,Nickelodeon
-http://193.233.19.197:81/udp/239.191.254.62:13343
-#EXTINF:0,Nickelodeon
-http://89.23.164.208:3371/udp/239.1.9.15:1234
-#EXTINF:0,Nickelodeon
-http://37.145.105.82:34040/udp/233.33.210.80:5050
-#EXTINF:0,Nickelodeon
-http://128.68.179.35:4000/udp/233.33.210.80:5050
-#EXTINF:0,Nickelodeon
-http://178.163.39.139:4022/udp/234.0.0.153:2000
-#EXTINF:0,Nickelodeon
-http://176.114.129.172:81/udp/239.100.4.4:1234
-#EXTINF:0,Nickelodeon
 http://37.8.151.208:4022/udp/224.3.20.63:1234
-#EXTINF:0,Nickelodeon
-http://93.100.105.246:81/udp/239.239.4.28:5239
-#EXTINF:0,Nickelodeon
-http://46.181.116.168:81/udp/239.255.42.32:1234
-#EXTINF:0,Nickelodeon
-http://134.90.183.97:81/udp/239.255.42.32:1234
-#EXTINF:0,Nickelodeon
-http://46.160.166.9:81/udp/239.254.2.17:1234
-#EXTINF:0,Nickelodeon
-http://178.163.72.121:4022/udp/234.0.0.153:2000
-#EXTINF:0,Nickelodeon
-http://176.102.165.28:81/udp/239.192.10.77:1234
-#EXTINF:0,Nickelodeon
-http://178.163.76.49:4022/udp/234.0.0.153:2000
-#EXTINF:0,Nickelodeon
-http://37.194.19.150:81/udp/239.1.3.4:1234
-#EXTINF:0,Nickelodeon
-http://178.49.233.52:81/udp/239.1.3.4:1234
-#EXTINF:0,Nickelodeon
-http://178.163.55.241:4022/udp/234.0.0.153:2000
-#EXTINF:0,NICKELODEON HD
-http://134.90.183.97:81/udp/239.255.43.24:1234
-#EXTINF:0,NICKELODEON HD
-http://176.193.160.8:5050/udp/233.49.170.218:5000
-#EXTINF:0,NICKELODEON HD
-http://46.160.166.9:81/udp/239.254.2.202:1234
+
+
