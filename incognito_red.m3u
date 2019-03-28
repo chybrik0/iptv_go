@@ -1,0 +1,53 @@
+#EXTM3U
+#PLAYLIST:AceTV.org Все каналы (138) обновлено 27.03.2019 14-40
+#EXTINF:-1,Россия 24
+#EXTGRP:Общие
+http://ott-cdn.ucom.am/s21/04.m3u8
+#EXTINF:-1,стс love
+#EXTGRP:Кино
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP:Общие
+http://176.101.224.21:8080/udp/239.195.32.1:1234
+#EXTINF:0,ТВ3
+#EXTGRP:Общие
+http://176.101.224.21:8080/udp/239.195.32.15:1234
+#EXTINF:0,Пятый канал
+#EXTGRP:Общие
+http://176.101.224.21:8080/udp/239.195.32.14:1234
+#EXTINF:0,НТВ
+#EXTGRP:Общие
+http://176.101.224.21:8080/udp/239.195.32.7:1234
+#EXTINF:0,СТС
+#EXTGRP:Общие
+http://176.101.224.21:8080/udp/239.195.32.8:1234
+#EXTINF:0,Наука
+#EXTGRP:Познавательные
+http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:0,Техно 24
+#EXTGRP:Общие
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:0,Карусель
+#EXTGRP:Детские
+http://176.101.224.21:8080/udp/239.195.32.20:1234
+#EXTINF:-1,Муз ТВ
+#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s28/04.m3u8
+#EXTINF:-1,НТН
+#EXTGRP:Украина
+https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:-1,Охотник и Рыболов
+#EXTGRP:Познавательные
+http://ott-cdn.ucom.am/s55/04.m3u8
+#EXTINF:-1,Россия 24
+#EXTGRP:Общие
+http://ott-cdn.ucom.am/s21/04.m3u8
+#EXTINF:-1,СТС
+#EXTGRP:Общие
+http://109.70.184.20:8080/udp/239.195.32.8:1234
+#EXTINF:-1,ТНТ
+#EXTGRP:Общие
+http://109.70.184.20:8080/udp/239.195.32.11:1234
+#EXTINF:-1,ТНТ Music
+#EXTGRP:Музыка
+http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
