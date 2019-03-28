@@ -170,3 +170,5 @@ http://streams.tv.mts.by/peretz_int/1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.
 
 
 
+#EXTINF:0,Nickelodeon
+http://83.246.144.19:81/udp/239.54.6.69:1224
