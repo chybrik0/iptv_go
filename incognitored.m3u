@@ -58,84 +58,114 @@ http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1,Discovery
+#EXTGRP:Познавательные
 http://88.216.48.14:80/discovery/live.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,112 Украина HD
+#EXTGRP:Украина
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,2+2
+#EXTGRP:Общие
 https://stream2g03-f23.ovva.tv/361665/smil:361665.smil/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,MTV
+#EXTGRP:Общие
 http://stream.euroasia.lfstrm.tv/mtv/1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,MTV (Norg)
+#EXTGRP:Общие
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,MTV (Уфа)
+#EXTGRP:Общие
 http://81.30.182.82:18092/hls/live.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,MTV HD
+#EXTGRP:Общие
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,MTV HD Russian
+#EXTGRP:Общие
 http://185.74.223.217/16081_1/16081_1.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8?q=VXdCTGZNaG10bGl6SGpyQnpWRzlRS3RYWHo1Q2dCRmsvZHcxblRBK25teFdDZUxvNVdUNzd1eHlSblk1UzVUcWlLZHQrb25MM3BXcE43VU9pRC8rSzlCY1dvQTFkVDFhMndPc1piRWlrQnF4SFdXQjZKdz0
 
 #EXTINF:-1,Nano TV
+#EXTGRP:Познавательные
 http://nano.teleservice.su:8080/hls/nano.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,Nano TV HD
+#EXTGRP:Познавательные
 http://serv30.vintera.tv:8081/nano/nanohd/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,Music Top
+#EXTGRP:Музыка
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,MusicBox UA
+#EXTGRP:Музыка
 http://212.26.132.86/hls/mb_ua_2500.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,ONE MUSIC HD
+#EXTGRP:Музыка
 http://rtmp.one.by:1300
 #EXTINF:-1,One.by
+#EXTGRP:Музыка
 http://rtmp.one.by:1200
 #EXTINF:-1,One.by Россия
+#EXTGRP:Музыка
 http://rtmp.one.by:2200
 #EXTINF:-1,OneRUS HD
+#EXTGRP:Музыка
 http://rtmp.one.by:2300
 
 
 #EXTINF:-1,Любимый HD/ТНТ4 (KG) +3
+#EXTGRP:Общие
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 
 #EXTINF:-1,ТНТ HD
+#EXTGRP:Общие
 http://91.231.219.145:80/tv_tnt_HD/video.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,ТНТ (+2)
+#EXTGRP:Общие
 http://ede960a1.ottv.info/iptv/7YD47MTECR4463/717/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,ТНТ4
+#EXTGRP:Общие
 http://persik.by/stream/859/290637/64.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 
 #EXTINF:-1,2x2
+#EXTGRP:Общие
 http://46.32.64.42/s/live/23/86.169.51.136/1/0.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 
 #EXTINF:-1,Tv 1000 русское кино
+#EXTGRP:Кино
 http://88.216.48.14:80/tv1000ru/live.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 
 
 #EXTINF:-1,Zoo
+#EXTGRP:Познавательные
 http://109.248.236.41:4433/udp/238.1.1.47:1234
 
 #EXTINF:-1,Кинохит
+#EXTGRP:Кино
 http://86.57.225.245:7015/play/a00o
 
 
 #EXTINF:-1,Канал Disney
+#EXTGRP:Детские
 http://188.242.201.77:4022/udp/239.239.3.10:5239?em9uYS1pcHR2LnJ1
 
 
 #EXTINF:-1,М2
+#EXTGRP:Музыка
 http://live.m2.tv/hls3/stream.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 
 
 #EXTINF:-1,Наука
+#EXTGRP:Познавательные
 http://ott-cdn.ucom.am/s98/04.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 
 
 #EXTINF:-1,Первый канал HD
+#EXTGRP:Общие
 http://188.242.201.77:4022/udp/239.239.3.50:5239?em9uYS1pcHR2LnJ1
 
 #EXTINF:-1,НСТ Страшное
+#EXTGRP:Кино
 http://109.248.236.41:4433/udp/238.1.1.123:1234
 
 
 #EXTINF:-1,Перец
+#EXTGRP:Общие
 http://streams.tv.mts.by/peretz_int/1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 
 
